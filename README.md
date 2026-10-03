@@ -161,7 +161,7 @@ Nodalix also works on:
 
 <p align="center">
   <a href="https://github.com/danielmigueltejedor/nodalia-cards">
-    <img src="https://raw.githubusercontent.com/danielmigueltejedor/nodalia-cards/main/docs/images/nodalia-cards-header.png" width="700" alt="Nodalia Cards">
+    <img src="https://raw.githubusercontent.com/danielmigueltejedor/nodalia-cards/main/docs/images/nodalia-cards-logo-trimmed.png" width="700" alt="Nodalia Cards">
   </a>
 </p>
 
