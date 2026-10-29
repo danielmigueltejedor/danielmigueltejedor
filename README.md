@@ -12,6 +12,7 @@ exploring complex systems and turning ideas into working products.**
 [![Website](https://img.shields.io/badge/Website-18181B?style=flat-square&logo=safari&logoColor=white)](https://danielmigueltejedor.com)
 [![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/danielmigueltejedor)
 [![Repositories](https://img.shields.io/badge/Repositories-18181B?style=flat-square&logo=git&logoColor=white)](https://github.com/danielmigueltejedor?tab=repositories)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/danielmigueltejedor/badge.svg)](https://hub.xerj.org/contributors/danielmigueltejedor)
 
 </div>
 
