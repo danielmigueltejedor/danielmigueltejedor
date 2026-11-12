@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/night-workspace.svg" alt="Animated pixel-art workspace at night, with code and an engineering simulation" width="100%" />
+<div align="center">
+  <img src="assets/pixel-art-header.gif"
+       alt="Daniel's pixel art workspace"
+       width="100%" />
+</div>
 
 # Daniel Miguel Tejedor
 
