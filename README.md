@@ -1,16 +1,19 @@
 <div align="center">
 
+<img src="assets/night-workspace.svg" alt="Animated pixel-art workspace at night, with code and an engineering simulation" width="100%" />
+
 # Daniel Miguel Tejedor
 
 ### Aerospace Engineering · Software Development · Open Source
 
-**Engineering-minded developer building open-source software,  
-exploring complex systems and turning ideas into working products.**
+**Engineering-minded developer building useful software, exploring complex systems and turning ideas into working products.**
 
-<br>
+<a href="https://danielmigueltejedor.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=BEA17C&center=true&vCenter=true&width=720&lines=Aerospace+engineering+meets+software.;Design.+Build.+Measure.+Improve.;Open+source+%C2%B7+Linux+%C2%B7+Native+apps.;Founder+of+Nodalia" alt="Animated introduction" /></a>
+
+<br />
 
 [![Website](https://img.shields.io/badge/Website-18181B?style=flat-square&logo=safari&logoColor=white)](https://danielmigueltejedor.com)
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/danielmigueltejedor)
+[![Nodalia](https://img.shields.io/badge/Nodalia-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/getnodalia)
 [![Repositories](https://img.shields.io/badge/Repositories-18181B?style=flat-square&logo=git&logoColor=white)](https://github.com/danielmigueltejedor?tab=repositories)
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/danielmigueltejedor/badge.svg)](https://hub.xerj.org/contributors/danielmigueltejedor)
 
@@ -18,176 +21,120 @@ exploring complex systems and turning ideas into working products.**
 
 ---
 
-## About me
+## Hello, I'm Daniel
 
-I'm an **Aerospace Engineering student at the University of León, Spain**, with a strong interest in software engineering, open-source development and the design of complex technical systems.
+I'm an **Aerospace Engineering student at the University of León, Spain**, with a deep interest in open-source software, computational engineering and thoughtful product design.
 
-My work extends beyond a single discipline. I develop applications, explore operating systems, work with infrastructure and build tools that connect different technologies.
+I build across disciplines: desktop applications, operating systems, engineering tools, automation and infrastructure. What interests me most is how the parts of a complex system fit together — and how to turn that complexity into something people genuinely enjoy using.
 
-I'm particularly drawn to projects that require understanding the bigger picture: how individual components interact, how architectural decisions affect performance and how technical complexity can be translated into intuitive software.
+I founded **[Nodalia](https://github.com/getnodalia)** as a home for independent open-source products, from Linux and native apps to engineering software and local-first AI.
 
-I care about **clean architecture, performance, interoperability and long-term maintainability**. I also believe that good engineering and good design should go hand in hand.
+I care about **clean architecture, efficiency, interoperability, verification and long-term maintainability**. Good engineering and good design should reinforce each other.
 
-Most of my work is open source, driven by curiosity and a desire to build things that are genuinely useful.
-
----
-
-## Selected projects
-
-A selection of projects I'm developing and maintaining.
+## What I'm building
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td width="50%" valign="top">
 
-### [Nodalia Cards](https://github.com/danielmigueltejedor/nodalia-cards)
+### [Nodalix OS](https://github.com/getnodalia/nodalix-os)
 
-A collection of custom Home Assistant dashboard components focused on interface consistency, performance and usability.
+A Linux desktop focused on integration, performance and a cohesive native experience.
 
-`TypeScript` `JavaScript` `Home Assistant`
+`Linux` `GNOME` `Systems`
 
-</td>
-<td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
-### [Nodalix OS](https://github.com/danielmigueltejedor/nodalix-os)
+### [Vortia](https://github.com/getnodalia/vortia)
 
-An independent Linux desktop project exploring system integration, native experiences and a cohesive computing environment.
+Open computational engineering tools, with a particular interest in fluid dynamics.
 
-`Linux` `Wayland` `QML`
+`CFD` `Simulation` `Engineering`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td></tr>
+<tr><td width="50%" valign="top">
 
-### [Vinilo](https://github.com/danielmigueltejedor/vinilo)
+### [Lumbre](https://github.com/getnodalia/lumbre)
 
-A native music application for Linux, bringing multiple music sources together in a unified GNOME experience.
+Resource-aware, private and local-first AI for everyday assistance.
 
-`Rust` `GTK4` `libadwaita`
+`Rust` `AI` `Privacy`
 
-</td>
-<td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
-### [Lienzo](https://github.com/danielmigueltejedor/lienzo)
+### [Vinilo](https://github.com/getnodalia/vinilo)
 
-An open-source image editor exploring professional creative workflows, native performance and document interoperability.
+A carefully designed native music application and experience.
 
-`C++` `Qt` `Graphics`
+`Desktop` `Music` `UX`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### [Lienzo](https://github.com/getnodalia/lienzo)
+
+Open creative software for image editing and professional workflows.
+
+`Graphics` `Creative tools`
+
+</td><td width="50%" valign="top">
 
 ### [Studium](https://github.com/danielmigueltejedor/studium)
 
-A framework for creating structured academic material through research, verified sources and AI-assisted workflows.
+Structured academic materials supported by research and verifiable sources.
 
-`Python` `LaTeX` `AI`
+`Python` `LaTeX` `Education`
 
-</td>
-<td width="50%" valign="top">
-
-### [Vivit Energy](https://github.com/danielmigueltejedor/vivit-energy-ha)
-
-A Home Assistant integration connecting energy consumption, billing and contract information to local automation systems.
-
-`Python` `Home Assistant` `Energy`
-
-</td>
-</tr>
+</td></tr>
 </table>
 
-<div align="right">
+<div align="right"><a href="https://github.com/orgs/getnodalia/repositories">Explore Nodalia projects →</a></div>
 
-[Explore all repositories →](https://github.com/danielmigueltejedor?tab=repositories)
+## Technical interests
 
-</div>
-
----
-
-## Technical background
-
-My interests cover several areas of software and engineering, with a particular focus on the connections between them.
-
-**Software engineering**
-<br>
-Systems programming · Application architecture · Native desktop development · APIs · Testing · Performance optimization
-
-**Linux & infrastructure**
-<br>
-Linux · GNOME · Wayland · Virtualization · Containers · Networking · Self-hosted services
-
-**Automation & interoperability**
-<br>
-Home Assistant · Smart home · Device integration · Open protocols · Cross-platform communication
-
-**Aerospace & computational engineering**
-<br>
-Fluid mechanics · Aerodynamics · Numerical methods · Simulation · Orbital mechanics · GNSS
-
-### Technologies
+| Area | Focus |
+| :--- | :--- |
+| **Software engineering** | Rust, C++, Python, TypeScript, architecture, testing and performance |
+| **Desktop & systems** | Linux, GNOME, Wayland, native interfaces and cross-platform tools |
+| **Infrastructure** | Containers, networking, self-hosting, automation and interoperability |
+| **Aerospace engineering** | Fluid mechanics, aerodynamics, numerical methods and simulation |
 
 <div align="center">
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=rust,cpp,python,ts,js,bash&theme=dark)
+<img src="https://skillicons.dev/icons?i=rust,cpp,python,ts,js,bash&theme=dark" alt="Languages" />
 
-<br>
+**Tools & platforms**
 
-**Frameworks & platforms**
-
-![Platforms](https://skillicons.dev/icons?i=linux,arch,gtk,qt,react,html,css&theme=dark)
-
-<br>
-
-**Tools & infrastructure**
-
-![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,cmake,cloudflare,vscode&theme=dark)
+<img src="https://skillicons.dev/icons?i=linux,arch,gtk,qt,git,github,githubactions,docker,cloudflare&theme=dark" alt="Tools and platforms" />
 
 </div>
 
----
+## How I approach engineering
 
-## Engineering philosophy
+**Understand first.** Learn the system and its constraints before changing it.
 
-I approach development as an iterative engineering process.
+**Design for change.** Prefer clear boundaries and maintainable solutions over short-term shortcuts.
 
-**Understand the problem.**  
-Good solutions start with understanding the underlying system, its constraints and the reasons behind its behavior.
+**Measure what matters.** Use profiling, tests and benchmarks rather than assumptions.
 
-**Design for change.**  
-Clear boundaries, reusable components and maintainable architecture matter more than short-term convenience.
+**Build for people.** Reliability, speed and usability are all part of technical quality.
 
-**Measure before optimizing.**  
-Performance improvements should be guided by profiling, benchmarks and real-world behavior.
+**Keep learning.** Every project is an opportunity to challenge assumptions and improve.
 
-**Build for people.**  
-Technical quality should translate into reliable, responsive and intuitive experiences.
+## Open source & collaboration
 
-**Keep learning.**  
-I see every project as an opportunity to explore new technologies, challenge assumptions and improve my understanding.
-
----
-
-## Open source
-
-I believe open-source development is one of the best ways to learn, collaborate and build better software.
-
-Beyond my own projects, I'm interested in contributing to existing ecosystems, learning from established codebases and improving interoperability between technologies.
-
-Contributions, technical discussions, bug reports and constructive feedback are always welcome.
+I enjoy exploring established projects, contributing improvements and building tools that make complex ideas more accessible. Issues, thoughtful feedback and contributions are welcome.
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielmigueltejedor&theme=github_dark" width="49%" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielmigueltejedor&theme=github_dark" width="49%" alt="Most-used languages" />
 
 ---
 
 **Build with purpose. Understand the details. Keep improving.**
 
-[Website](https://danielmigueltejedor.com) ·
-[GitHub](https://github.com/danielmigueltejedor) ·
-[Open-source projects](https://github.com/danielmigueltejedor?tab=repositories)
+[Website](https://danielmigueltejedor.com) · [Nodalia](https://getnodalia.com) · [GitHub](https://github.com/danielmigueltejedor)
 
 </div>
